@@ -7,12 +7,17 @@ public class Player : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        //blablablablablababllba
     }
 
     // Update is called once per frame
     void Update()
     {
-        //sdgkjhsrjhg
+        //balbaujlosbajlfcbsakujehfAJKSGFIUwe
     }
+	
+	private void OnTriggerEnter()
+	{
+		//xcfbxfhdfhdfhxdhg
+	}
 }
